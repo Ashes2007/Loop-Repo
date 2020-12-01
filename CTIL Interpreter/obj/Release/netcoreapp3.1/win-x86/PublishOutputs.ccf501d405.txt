@@ -1,0 +1,2 @@
+D:\Documents\vs\CTIL Interpreter\CTIL Interpreter\bin\publish\CTIL_Interpreter.pdb
+D:\Documents\vs\CTIL Interpreter\CTIL Interpreter\bin\publish\CTIL_Interpreter.exe

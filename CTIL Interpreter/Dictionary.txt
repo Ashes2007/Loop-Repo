@@ -1,0 +1,28 @@
+﻿#logical operations
+and r0 1 1
+or r0 1 1
+nand r0 1 1
+nor r0 1 1
+xor r0 1 1
+xnor r0 1 1
+not r0 1 1
+
+#mathmatical operations
+move r0 10 // r0 = 10
+add r0 r0 10 // r0 = r0 + 10
+sub r0 r0 10 // r0 = r0 - 10
+mul r0 r0 10 // r0 = r0 * 10
+div r0 r0 10 // r0 = r0 / 10
+
+#general operations
+echo r0 //prints the contents of r0 to screen
+halt r0 //halts for r0 milliseconds
+quit //ends program
+echt rA //Prints line A from text file
+
+#branch operations
+j r0 //jump to line specified by r0
+beq A B C //jump to C if A is equal to B
+bnq A B C //jump to C if A is not equal to B
+beqz A B //jump to B if A is equal to zero
+bnqz A B //jump to B if A is not equal zero

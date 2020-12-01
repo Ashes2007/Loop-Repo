@@ -1,0 +1,13 @@
+D:\Documents\vs\CTIL Interpreter\CTIL Interpreter\bin\Release\netcoreapp3.1\CTIL_Interpreter.exe
+D:\Documents\vs\CTIL Interpreter\CTIL Interpreter\bin\Release\netcoreapp3.1\CTIL_Interpreter.deps.json
+D:\Documents\vs\CTIL Interpreter\CTIL Interpreter\bin\Release\netcoreapp3.1\CTIL_Interpreter.runtimeconfig.json
+D:\Documents\vs\CTIL Interpreter\CTIL Interpreter\bin\Release\netcoreapp3.1\CTIL_Interpreter.runtimeconfig.dev.json
+D:\Documents\vs\CTIL Interpreter\CTIL Interpreter\bin\Release\netcoreapp3.1\CTIL_Interpreter.dll
+D:\Documents\vs\CTIL Interpreter\CTIL Interpreter\bin\Release\netcoreapp3.1\CTIL_Interpreter.pdb
+D:\Documents\vs\CTIL Interpreter\CTIL Interpreter\obj\Release\netcoreapp3.1\CTIL Interpreter.csprojAssemblyReference.cache
+D:\Documents\vs\CTIL Interpreter\CTIL Interpreter\obj\Release\netcoreapp3.1\CTIL Interpreter.AssemblyInfoInputs.cache
+D:\Documents\vs\CTIL Interpreter\CTIL Interpreter\obj\Release\netcoreapp3.1\CTIL Interpreter.AssemblyInfo.cs
+D:\Documents\vs\CTIL Interpreter\CTIL Interpreter\obj\Release\netcoreapp3.1\CTIL Interpreter.csproj.CoreCompileInputs.cache
+D:\Documents\vs\CTIL Interpreter\CTIL Interpreter\obj\Release\netcoreapp3.1\CTIL_Interpreter.dll
+D:\Documents\vs\CTIL Interpreter\CTIL Interpreter\obj\Release\netcoreapp3.1\CTIL_Interpreter.pdb
+D:\Documents\vs\CTIL Interpreter\CTIL Interpreter\obj\Release\netcoreapp3.1\CTIL Interpreter.genruntimeconfig.cache
